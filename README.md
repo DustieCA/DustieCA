@@ -1,6 +1,6 @@
 # Caleb Aragones
 
-** `Aspiring Software Engineer` **
+`Aspiring Software Engineer`
 
 Hi, I'm Caleb and welcome to my GitHub Profile! I'm currently an indie full-stack developer designing and building coding projects that solves real-life problems and passion projects that allow me to express my creativity and technical expertise. I'm always excited to grow through experience and learn from others.
 
